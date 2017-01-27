@@ -1,24 +1,4 @@
-# README
+# Instagram Web App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is an example of how to build out a connection to IG and render your own posts.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
