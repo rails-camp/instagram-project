@@ -1,0 +1,12 @@
+<h1>Pages#home</h1>
+
+
+<% @pictures["data"].each do |picture| %>
+
+  <p>
+    <%= image_tag picture["images"]["standard_resolution"]["url"] %>
+    <%= picture.inspect %>
+  </p>
+
+<% end %>
+
